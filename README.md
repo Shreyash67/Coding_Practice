@@ -1,2 +1,3 @@
 # Coding Practice
-Python Questions on Array
+- Python Questions on Array
+- GFG Coding Questions
